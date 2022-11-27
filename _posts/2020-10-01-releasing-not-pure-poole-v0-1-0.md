@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
-author: Songzi Vong
+title: Announcement
+author: Johnnywow
 tags:
-- jekyll theme
-- jekyll
-date: 2020-10-01 13:56 +0800
+- Demo
+date: 2022-11-28 00:00 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
+# Aims of this site
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+This site is the log of learing VASP, and sharing the experience of using VASP.
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+Our groups website: [ACESLab](http://cheekeongtan.people.ust.hk/) 
+
