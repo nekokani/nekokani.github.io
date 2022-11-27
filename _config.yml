@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: How to VASP
+description: A website for ACSELab and who want to know about VASP in an easy way.
+url: https://nekokani.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: johnnywow
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: johnnywow
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    # https://twitter.com/vszhub
+    - https://github.com/nekokani
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: johnnywow
+  url: https://github.com/nekokani/
+  email: johnnywow@live.com
