@@ -35,7 +35,7 @@ logo: logo.png
 social:
   name: johnnywow
   links:
-    # https://twitter.com/vszhub
+    - https://twitter.com/johnnywow
     - https://github.com/nekokani
 google_site_verification: xxxxx
 lang: en
