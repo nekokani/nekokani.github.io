@@ -25,17 +25,17 @@ date: 2022-11-28 15:44 +0800
   
 2. 准备赝势文件  
   - 这个百度一下吧   
-  - 上传后用 ```tar -xf pesudo.tar.gz``` 解压到当前目录
+  - 上传后用 `tar -xf pesudo.tar.gz` 解压到当前目录
 
 3. 安装vaspkit  
-  - vaspkit的下载地址在[这里]{https://vaspkit.com/}  
+  - vaspkit的下载地址在[这里](https://vaspkit.com/)  
   - 上传后用 `tar -xf vaspkit.x.x.x.tar.gz` 解压到当前目录   
   - `ls` 一下  
   - `cd [vaspkit.x.x.x]` 进入vaspkit目录  
   - `ls` 一下  
   - `bash setup.py` 按照提示修改~/.vaspkit文件内容  
-  - `vi ~/.vaspkit` ，然后按`i`键左下角会显示`-- INSERT --`，表示当前在输入模式。  
-  - 修改 `LDA_PATH` 和 `PBE_PATH`, 将2中的赝势文件路径添加到 `=` 号后面，如  
+  - `vi ~/.vaspkit`，然后按`i`键左下角会显示`-- INSERT --`，表示当前在输入模式。  
+  - 修改 `LDA_PATH` 和 `PBE_PATH`，将2中的赝势文件路径添加到 `=` 号后面，如  
   ```
   PBE_PATH =  ~/softwares/pseudopotentials/potpaw_PBE  
   ```  
@@ -77,4 +77,4 @@ date: 2022-11-28 15:44 +0800
   ```
   就说明成功了！
 
-    最后，善用**Google**
+   最后，善用**Google**
