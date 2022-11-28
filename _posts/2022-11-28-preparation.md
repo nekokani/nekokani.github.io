@@ -33,7 +33,7 @@ date: 2022-11-28 15:44 +0800
   - `ls` 一下  
   - `cd [vaspkit.x.x.x]` 进入vaspkit目录  
   - `ls` 一下  
-  - `bash setup.py` 按照提示修改~/.vaspkit文件内容  
+  - `bash setup.sh` 按照提示修改~/.vaspkit文件内容  
   - `vi ~/.vaspkit`，然后按`i`键左下角会显示`-- INSERT --`，表示当前在输入模式。  
   - 修改 `LDA_PATH` 和 `PBE_PATH`，将2中的赝势文件路径添加到 `=` 号后面，如  
   ```
