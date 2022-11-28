@@ -10,15 +10,15 @@ date: 2022-11-28 15:44 +0800
 
 1. 了解如何使用Linux & 上传文件到HPC。  
   - Linux 命令，[file]代表的是一个文件，[target]代表的是一个路径。  
-  pwd - 显示当前路径  
-  ls - 列出当前路径下的文件及文件夹  
-  cd [target] - 进入[target]文件夹  
-  mv [file] [target] - 移动[file]到[target]位置  
-  cp [file] [target] - 复制[file]到[target]位置  
-  tar -xf [file].tar.gz - 解压[file].tar.gz文件，Linux的压缩包一般为这个格式。  
-  source [file] - 加载[file]环境  
-  make [file] - 编译/安装[file]软件  
-  vi [file] - 用vi文本编辑器编辑[file]，由于vi的使用比较复杂，需要一定学习时间，刚开始只需要了解如何编辑和保存即可。即如何进入和退出INSERT模式，如何:wq保存，如何:q!强制退出即可。详细教程请移步[这里]{https://www.runoob.com/linux/linux-vim.html}  
+  `pwd` - 显示当前路径  
+  `ls` - 列出当前路径下的文件及文件夹  
+  `cd [target]` - 进入`[target]`文件夹  
+  `mv [file] [target]` - 移动`[file]`到`[target]`位置  
+  `cp [file] [target]` - 复制`[file]`到`[target]`位置  
+  `tar -xf [file].tar.gz` - 解压`[file].tar.gz`文件，Linux的压缩包一般为这个格式。  
+  `source [file]` - 加载`[file]`环境  
+  `make [file]` - 编译/安装`[file]`软件  
+  `vi [file]` - 用vi文本编辑器编辑`[file]`，由于vi的使用比较复杂，需要一定学习时间，刚开始只需要了解如何编辑和保存即可。即如何进入和退出INSERT模式，如何:wq保存，如何:q!强制退出即可。详细教程请移步[这里]{https://www.runoob.com/linux/linux-vim.html}  
   - 上传文件到HPC  
   Windows用户推荐使用Xftp，Mac用户暂时无能为力（逃。  
   HPC 应该会有对应网页端，可以用来上传和下载软件，管理作业等。具体情况请咨询您的HPC提供商。  
