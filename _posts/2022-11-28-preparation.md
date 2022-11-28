@@ -25,7 +25,7 @@ date: 2022-11-28 15:44 +0800
   
 2. 准备赝势文件  
   - 这个百度一下吧   
-  - 上传后用 `tar -xf pesudo.tar.gz' 解压到当前目录
+  - 上传后用 ```tar -xf pesudo.tar.gz``` 解压到当前目录
 
 3. 安装vaspkit  
   - vaspkit的下载地址在[这里]{https://vaspkit.com/}  
